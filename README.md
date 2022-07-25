@@ -1,10 +1,9 @@
-## Olá, Eu sou o Kendiro
-🔭 Em busca de um trabalho Back-end...
-🌱 Estudando DataBase...
-📫 Como me achar: ckendiro@gmail.com ...
+## Olá, Eu sou o Kendiro  
+🔭 Em busca de um trabalho Back-end...  
+🌱 Estudando DataBase...  
+📫 Como me achar: ckendiro@gmail.com ...  
 
 
--->
 
 <div align="center">
 <a href="https://github.com/KendiroDev">
@@ -14,8 +13,8 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Kendiro-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kendiro-MySQL" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Kendiro-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kendiro-MySQL" height="90" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
 ##
